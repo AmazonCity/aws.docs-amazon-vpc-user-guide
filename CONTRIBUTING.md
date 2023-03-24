@@ -6,9 +6,9 @@ Please read through this document before you submit any pull requests or issues.
 
 ## What to expect when you contribute
 
-When you submit a pull request, our team is notified and will respond as quickly as we can. We'll do our best to work with you to ensure that your pull request adheres to our style and standards. If we merge your pull request, we might make additional edits later for style or clarity.
+When you submit a pull request, the AWS team will respond as quickly as possible. They will work with you to ensure that your pull request adheres to the AWS style and standards. If your pull request is merged, AWS may make additional edits later for style or clarity. However, the AWS documentation source files on GitHub aren't published directly to the official documentation website. AWS will publish your changes to the documentation website as soon as possible, but they won't appear immediately or automatically.
 
-The AWS documentation source files on GitHub aren't published directly to the official documentation website. If we merge your pull request, we'll publish your changes to the documentation website as soon as we can, but they won't appear immediately or automatically.
+**Note:** We all write differently, and you might not like how we've written or organized something currently. We want that feedback. But please be sure that your request for a rewrite is supported by the previous criteria. If it isn't, we might decline to merge it.
 
 We look forward to receiving your pull requests for:
 
@@ -17,8 +17,6 @@ We look forward to receiving your pull requests for:
 * Information gaps in the content that need more detail to be complete
 * Typos or grammatical errors
 * Suggested rewrites that improve clarity and reduce confusion
-
-**Note:** We all write differently, and you might not like how we've written or organized something currently. We want that feedback. But please be sure that your request for a rewrite is supported by the previous criteria. If it isn't, we might decline to merge it.
 
 ## How to contribute
 
